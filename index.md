@@ -307,6 +307,36 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<div id="tidydata"> {% comment %} Start of 'Tidy Data' section. {% endcomment %}
+  <h3>Tidy Data & Spreadsheets</h3>
+  <p>
+    For this lesson you will need a spreadsheet program, such as <a href="https://www.libreoffice.org/">LibreOffice</a>, <a href="https://products.office.com/en-us/excel">Microsoft Excel</a>, <a href="http://www.gnumeric.org/">Gnumeric</a>, <a href="https://www.openoffice.org/">OpenOffice.org</a>, or other programs. Commands may differ slightly between programs, but the spreadsheet concepts relevant to this less will be the same.
+  </p>
+
+  <div>
+    <ul class="nav nav-tabs nav-justified" role="tablist">
+      <li role="presentation" class="active"><a data-os="windows" href="#libreoffice-windows" aria-controls="Windows" role="tab" data-toggle="tab">Windows</a></li>
+      <li role="presentation"><a data-os="macos" href="#libreoffice-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
+      <li role="presentation"><a data-os="linux" href="#libreoffice-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
+    </ul>
+
+    <div class="tab-content">
+      <article role="tabpanel" class="tab-pane active" id="libreoffice-windows">
+        <p>Install LibreOffice by going to the <a href="https://www.libreoffice.org/download/download/">installation page</a>. The version for Windows should automatically be selected. Click Download. You will go to a page that asks about a donation, but you don’t need to make one. Your download should begin automatically.</p>
+        <p>Once the installer is downloaded, double click on it and it should install.</p>
+      </article>
+      <article role="tabpanel" class="tab-pane active" id="libreoffice-macos">
+        <p>Install LibreOffice by going to the <a href="https://www.libreoffice.org/download/download/">installation page</a>. The version for MacOS should automatically be selected. Click Download. You will go to a page that asks about a donation, but you don’t need to make one. Your download should begin automatically.</p>
+        <p>The file LibreOffice_X.X.X_MacOS_x86-64 (whichever version of LibreOffice you have selected) should have been downloaded. Double click on this file, and LibreOffice will be installed.</p>
+      </article>
+      <article role="tabpanel" class="tab-pane active" id="libreoffice-linux">
+        <p>Install LibreOffice by going to the <a href="https://www.libreoffice.org/download/download/">installation page</a>. The version for Linux should automatically be selected. Click Download. You will go to a page that asks about a donation, but you don’t need to make one. Your download should begin automatically.</p>
+        <p>Once the installer is downloaded, double click on it and it should install.</p>
+      </article>
+    </div>
+  </div>
+</div> {% comment %} End of 'Tidy Data' section. {% endcomment %}
+
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
