@@ -341,7 +341,7 @@ please preview your site before committing, and make sure to run
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
-    For this lesson you will need <em>OpenRefine</em> and a
+    For this lesson you will need OpenRefine and a
     web browser. OpenRefine is a Java program that runs on your machine (not in the cloud).
     It runs inside a web browser, but no web connection is needed.
   </p>
