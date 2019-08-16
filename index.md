@@ -310,8 +310,9 @@ please preview your site before committing, and make sure to run
 <div id="tidydata"> {% comment %} Start of 'Tidy Data' section. {% endcomment %}
   <h3>Tidy Data & Spreadsheets</h3>
   <p>
-    For this lesson you will need a spreadsheet program, such as <a href="https://www.libreoffice.org/">LibreOffice</a>, <a href="https://products.office.com/en-us/excel">Microsoft Excel</a>, <a href="http://www.gnumeric.org/">Gnumeric</a>, <a href="https://www.openoffice.org/">OpenOffice.org</a>, or other programs. Commands may differ slightly between programs, but the spreadsheet concepts relevant to this less will be the same.
+    For this lesson you will need a spreadsheet program, such as <a href="https://www.libreoffice.org/">LibreOffice</a>, <a href="https://products.office.com/en-us/excel">Microsoft Excel</a>, <a href="http://www.gnumeric.org/">Gnumeric</a>, <a href="https://www.openoffice.org/">OpenOffice.org</a>. Commands may differ slightly between programs, but the spreadsheet concepts relevant to the lesson will be the same.
   </p>
+  <p>If you do not already have a spreadsheet program, you can install LibreOffice, a free, open source spreadsheet program by following the instructions below.</p>
 
   <div>
     <ul class="nav nav-tabs nav-justified" role="tablist">
